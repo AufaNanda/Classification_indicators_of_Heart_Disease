@@ -7,7 +7,7 @@ Heart disease is a condition that can affect all living beings and may occur due
 - Evaluate model performance using Mean Squared Error (MSE).
 - Predict symptoms of heart disease.
 - Compare classification algorithms to identify the most effective one.
-- 
+  
 # Library
 - Library pandas
 - Library numpy
